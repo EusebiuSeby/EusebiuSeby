@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EusebiuSeby
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Swift and I am on my way to become a full-time iOS Developer
+- 📫 How to reach me: +40757694307 or at: sebypudilic@gmail.com
