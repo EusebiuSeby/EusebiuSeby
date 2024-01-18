@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EusebiuSeby
 - 🌱 I’m a full-time iOS Developer
-- 📫 How to reach me: https://www.linkedin.com/in/eusebiu-pudilic-8986b8220
-- - sebypudilic@gmail.com
-- - +40 757 694 307
+- 📫 How to reach me: https://www.linkedin.com/in/eusebiu-pudilic
+- sebypudilic@gmail.com
